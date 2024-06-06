@@ -2,4 +2,4 @@
 
 My odin recipes project is here! 
 
-Check the course out: [a link](https://www.theodinproject.com/)
+Check the course out: [The Odin Project](https://www.theodinproject.com/)
